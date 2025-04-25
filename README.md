@@ -20,7 +20,7 @@ npm install ethers@5.7.2 axios dotenv
 
 ## 配置
 
-1. 复制`.env.example`文件并重命名为`.env`
+1. 复制`env`文件并重命名为`.env`
 2. 在`.env`文件中填入您的配置：
    - `WALLET_PRIVATE_KEY`: 您的钱包私钥（**重要**：保持私钥安全，不要分享给他人）
 
